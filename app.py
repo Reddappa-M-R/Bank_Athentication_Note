@@ -1,16 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Jun 13 02:20:31 2020
+Created on Fri Mar 17 23:03:34 2023
 
-@author: Krish Naik
+@author: Reddymr2022
 """
 
-# -*- coding: utf-8 -*-
-"""
-Created on Fri May 15 12:50:04 2020
-
-@author: krish.naik
-"""
 
 
 import numpy as np
